@@ -1,0 +1,30 @@
+# Dataset folder
+data/
+
+# PyTorch checkpoints and model files
+*.pt
+*.pth
+
+# Python
+*.pyc
+*.pyo
+*.egg-info/
+__pycache__/
+*.egg/
+
+# Directories that might contain virtual environments or build artifacts
+venv/
+*.venv/
+build/
+dist/
+
+# IDE related
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+*.swp
+
+# Jupyter notebook checkpoints (if any)
+.ipynb_checkpoints/
